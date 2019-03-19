@@ -30,6 +30,7 @@ section {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 5rem;
+	overflow-wrap: break-word;
 }
 section article {
 	border: 1px solid black;
