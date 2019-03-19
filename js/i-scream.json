@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Creamsicle",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "orange rind",
+        "heavy cream",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Tart Blue Rhaspberry",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "rhaspberry extract",
+        "blue food colouring",
+        "yogurt tart flavour"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
